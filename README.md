@@ -2,7 +2,6 @@
 
 A custom shell implementation with a built-in web terminal interface.
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Linux%2FWSL-green.svg)
 
 ## Features
