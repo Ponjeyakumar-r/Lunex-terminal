@@ -133,10 +133,6 @@ custom_terminal/
 - Linux/Unix system
 - POSIX-compliant shell
 
-## License
-
-MIT License - See LICENSE file for details
-
 ## Author
 
 Created by Ponjeyakumar R
